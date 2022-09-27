@@ -1,0 +1,3 @@
+9b8239a921084a88a38274901fbc9daf
+
+https://api.spoonacular.com/recipes/complexSearch?apiKey=9b8239a921084a88a38274901fbc9daf&addRecipeInformation=true&number=100
